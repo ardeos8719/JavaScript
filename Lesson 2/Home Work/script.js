@@ -64,3 +64,9 @@ if (month == 1 || month == 2 || month == 12){
 }
 
 //--------- Task 6 --------//
+
+var i = 0;
+while (i <= 100){
+  console.log(i);
+  i+=2; 
+}
